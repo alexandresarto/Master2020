@@ -3,14 +3,12 @@ Application code and files created during my master's studies
 
 O conteúdo deste reposítório possui as seguintes pastas e arquivo:
 
---------------------------------------------------------------------------------------------------------------
-DSL_DADOS_CALCULOS_AHP.xlsx - Documento com os dados e cálculos do método AHP utilizando EXCEL;
---------------------------------------------------------------------------------------------------------------
-APLICACAO - código fonte da aplicação utilizada nos experimentos;
---------------------------------------------------------------------------------------------------------------
-GRAFICOS - Arquivos com gráficos dos recursos das máquinas virtuais nos períodos dos testes;
-	- SubPastas (A1, A2, A3, A4, A5 e A6) com os nomes de cada um dos cenários (Alternativas);
-	- comandos-gerar-graficos-VS2.txt - Arquivo com os comandos para geração dos gráficos;
---------------------------------------------------------------------------------------------------------------
-MENSAGENS - Arquivos (extensão CSV) dos 3 tamanhos de mensagens utilizados nos experimentos (MP, MM e MG).
---------------------------------------------------------------------------------------------------------------
+DSL_DADOS_CALCULOS_AHP.xlsx (Arquivo) - Documento com as informações e dados sobre os cálculos do método AHP utilizado nessa pesquisa.
+
+APLICACAO (Pasta) - possui arquivos com o código fonte da aplicação utilizado nessa pesquisa de mestrado.
+
+GRAFICOS (Pasta) - arquivos com os gráficos gerados nas máquinas virtuais relacionados aos recursos das máquinas.
+	- SUBPASTAS (A1, A2, A3, A4, A5 e A6) - os gráficos das máquinas virtuais separados com base nas alternativas (cenários) desta pesquisa.
+	- existe um arquivo README que apresenta os comandos utilizados para fazer a geração dos gráficos.
+
+MENSAGENS (Pasta) - estão os arquivos com extensão .CSV relacionados as mensagens e os 3 tamanhos utilizados nesta pesquisa (MP, MM e MG).
