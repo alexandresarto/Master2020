@@ -1,3 +1,4 @@
+COMANDOS PARA GERAR OS GRÁFICOS NAS MÁQUINAS VIRTUAIS:
 ===============================================================================================
 CENARIO1
 
